@@ -6,3 +6,8 @@ function leapyear(year) {
 			console.log("not a leap year having 365 days")
 		}
 }
+
+let year = 1400
+leapyear(400)
+leapyear(500)
+leapyear(2024)
